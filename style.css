@@ -22,7 +22,6 @@ main{
 }
 
 .pokedex{
-    /* como o main não tem um width definido, nesse caso o 100% é o proprio tamanho da imagem, se tivesse ai seria 100% do pai tlgd*/
     width: 100%;
     max-width: 425px;
     max-height: 75vh;
